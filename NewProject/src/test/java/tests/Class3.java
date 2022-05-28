@@ -28,10 +28,10 @@ public class Class3 {
 		System.out.println("afterMethod test Class2");
 	}
 	
-	@AfterClass
-	public void afterClass() {
-		System.out.println("afterClass testClass2");
-	}
+//	@AfterClass
+//	public void afterClass() {
+//		System.out.println("afterClass testClass2");
+//	}
 	
 
 	}
